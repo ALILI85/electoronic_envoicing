@@ -1,0 +1,13 @@
+---- lien ref to electronic invoicing : 
+
+https://tenorsolutions.com/normes-facture-electronique/
+
+
+https://invoicing.plus/blog/factur-x-en16931-conformite/ 
+
+
+--- Claude connector  
+https://www.facebook.com/reel/1839495080819453
+
+--- Spécifications externes v3.2 du 30/04/2026 (DSE, annexes, XSD), à télécharger dans Refs/ :
+https://www.impots.gouv.fr/specifications-externes-b2b
